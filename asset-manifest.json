@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/goodbooks/static/css/main.6f1836dc.chunk.css",
-    "main.js": "/goodbooks/static/js/main.ab205adc.chunk.js",
+    "main.js": "/goodbooks/static/js/main.655cca50.chunk.js",
     "runtime-main.js": "/goodbooks/static/js/runtime-main.aa992119.js",
     "static/js/2.fe15d980.chunk.js": "/goodbooks/static/js/2.fe15d980.chunk.js",
     "static/js/3.59a73586.chunk.js": "/goodbooks/static/js/3.59a73586.chunk.js",
@@ -13,6 +13,6 @@
     "static/js/runtime-main.aa992119.js",
     "static/js/2.fe15d980.chunk.js",
     "static/css/main.6f1836dc.chunk.css",
-    "static/js/main.ab205adc.chunk.js"
+    "static/js/main.655cca50.chunk.js"
   ]
 }
