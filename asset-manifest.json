@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/goodbooks/static/css/main.6f1836dc.chunk.css",
+    "main.js": "/goodbooks/static/js/main.ab205adc.chunk.js",
+    "runtime-main.js": "/goodbooks/static/js/runtime-main.aa992119.js",
+    "static/js/2.fe15d980.chunk.js": "/goodbooks/static/js/2.fe15d980.chunk.js",
+    "static/js/3.59a73586.chunk.js": "/goodbooks/static/js/3.59a73586.chunk.js",
+    "index.html": "/goodbooks/index.html",
+    "static/js/2.fe15d980.chunk.js.LICENSE.txt": "/goodbooks/static/js/2.fe15d980.chunk.js.LICENSE.txt",
+    "static/media/books.ec30cd75.jpg": "/goodbooks/static/media/books.ec30cd75.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa992119.js",
+    "static/js/2.fe15d980.chunk.js",
+    "static/css/main.6f1836dc.chunk.css",
+    "static/js/main.ab205adc.chunk.js"
+  ]
+}
