@@ -1,0 +1,108 @@
+.App {
+  height: 100vh;
+  padding: 60px;
+  filter: blur(0px);
+  color: #ffffff;
+  width: 60%;
+  margin: auto;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #efefef;
+}
+
+.background-image {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background-size: cover;
+	-webkit-filter: blur(10px);
+  -moz-filter: blur(10px);
+  -o-filter: blur(10px);
+  -ms-filter: blur(10px);
+  filter: blur(2px);
+}
+
+li {
+  list-style: none;
+  padding: 1rem;
+  border: 2px solid rgb(209, 213, 219);
+  background-color: black;
+  margin: 1rem 0rem;
+  border-radius: 0.5rem;
+  text-align: left;
+}
+
+ul {
+  padding-inline-start: 0px;
+  text-align: -webkit-center;
+}
+
+h1 {
+  display: block;
+  text-align: center;
+  padding: 35px;
+  border: 2px solid;
+  background-color: black;
+  border-bottom-left-radius: 7% 100%;
+  border-bottom-right-radius: 9px;
+  border-top-left-radius: 9px;
+  border-top-right-radius: 7% 100%;
+}
+
+.button_container {
+  display: block;
+  text-align: center;
+  padding: 5px;
+  border: 2px solid;
+  background-color: black;
+  border-bottom-left-radius: 9px;
+  border-bottom-right-radius: 7% 100%;
+  border-top-left-radius: 7% 100%;
+  border-top-right-radius: 9px;
+}
+
+button {
+  cursor: pointer;
+  background: #ffffff;
+  font-size: 15px;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  margin: 1rem 0.3rem;
+}
+
+p {
+  font-size: 15px;
+}
+
+
+@media (min-width:961px)  {
+  .App {
+    width: 50%;
+  }
+}
+
+@media (min-width:1025px) {
+  .App {
+    width: 40%;
+  }
+}
+
+@media (min-width:1281px) {
+  .App {
+    width: 40%;
+  }
+}
+
+.book_title {
+  margin-bottom: 10px;
+}
+
+.active {
+  background: #3f51b5;
+  color: white;
+}
